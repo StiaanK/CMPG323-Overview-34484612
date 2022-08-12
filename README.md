@@ -3,10 +3,10 @@ This is used to manage a project that implements the Scrum and Agile frameworks.
 
 
 ### Repos for smaller projects:
-  - Project 2(API Development): 
-  - Project 3(Standards & Patterns):
-  - Project 4(Testing & RPA):
-  - Project 5(Reporting & Monitoring):
+  - Project 2(API Development): https://github.com/StiaanK/CMPG323-Project2-34484612
+  - Project 3(Standards & Patterns): https://github.com/StiaanK/CMPG323-Project3-34484612
+  - Project 4(Testing & RPA): https://github.com/StiaanK/CMPG323-Project4-34484612
+  - Project 5(Reporting & Monitoring): https://github.com/StiaanK/CMPG323-Project5-34484612
 
 This is how the projects tie into one project:
 
