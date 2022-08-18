@@ -27,3 +27,8 @@ The .gitignore files will indicate which files will be ignored when files are up
 
 ### Credentials and sensitive info storage:
 This information will be added to .gitignore list and will be stored in a separate file and will not be included in the reposotry, unless it is needed. 
+
+### Burnout chart
+![Screenshot 2022-08-18 153307](https://user-images.githubusercontent.com/102803595/185408524-5ebeadd3-e36d-45aa-ba07-433fb0293212.png)
+
+
